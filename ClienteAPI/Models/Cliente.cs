@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace ClienteAPI.Models
 {
     public class Cliente

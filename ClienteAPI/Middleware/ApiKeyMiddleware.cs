@@ -4,7 +4,7 @@ namespace ClienteAPI.Middleware
     {
         private readonly RequestDelegate _next;
         private const string API_KEY_HEADER = "X-API-Key";
-        private const string VALID_API_KEY = "mi-api-key-secreta-123"; // Cambia esto
+        private const string VALID_API_KEY = "mi-api-key-secreta-123";
 
         public ApiKeyMiddleware(RequestDelegate next)
         {
