@@ -1,0 +1,9 @@
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.csproj.AssemblyReference.cache
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.AssemblyInfoInputs.cache
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.AssemblyInfo.cs
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\EVALUACION-VALLADOLID-EJ2\ClienteAPI\obj\Debug\net8.0\ClienteAPI.sourcelink.json
